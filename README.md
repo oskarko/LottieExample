@@ -3,6 +3,8 @@ Tiny example with the Lottie iOS library
 
 ![alt tag1](images/video.gif)
 
+Lottie file: [https://lottiefiles.com/96245-success](https://lottiefiles.com/96245-success)
+
 
 Visit my blog for more info: [www.oscargarrucho.com](http://www.oscargarrucho.com/)
 
